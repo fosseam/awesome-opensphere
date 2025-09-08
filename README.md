@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated resources around open 3D spaces: OpenUSD, glTF, formats, tools, engines, samples, and interoperability. Pull requests welcome.
+Curated resources around open 3D spaces, skyboxes, 360° panaroma views and more, based on OpenUSD, glTF, ICF, formats, tools, engines, samples, and interoperability. Pull requests welcome.
 
 ## Contents
 - [Standards and Formats](#standards-and-formats)
