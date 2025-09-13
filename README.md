@@ -4,6 +4,33 @@
 
 Curated resources around open 3D spaces: OpenUSD, glTF, formats, tools, engines, samples, and interoperability. Pull requests welcome.
 
+Table of Contents
+=================
+
+* [Awesome OpenSphere](#awesome-opensphere)
+  * [Standards and Formats](#standards-and-formats)
+  * [Documentation and Background](#documentation-and-background)
+  * [Awesome Lists](#awesome-lists)
+  * [Tools and Libraries](#tools-and-libraries)
+  * [Sample Assets and Scenes](#sample-assets-and-scenes)
+  * [Engines and Integrations](#engines-and-integrations)
+  * [Metaverse and Interoperability](#metaverse-and-interoperability)
+  * [Panorama, Skyboxes, 360](#panorama-skyboxes-360)
+  * [Platforms and Ecosystems](#platforms-and-ecosystems)
+    * [NVIDIA Omniverse](#nvidia-omniverse)
+    * [EngageXR](#engagexr)
+  * [Geo &amp; GIS](#geo--gis)
+    * [Core Tools](#core-tools)
+    * [Standards &amp; Data Formats](#standards--data-formats)
+    * [Awesome Lists](#awesome-lists-1)
+    * [Visualization &amp; 3D Integration](#visualization--3d-integration)
+    * [Streetmapping &amp; 360° Imagery](#streetmapping--360-imagery)
+  * [AECO](#aeco)
+    * [OpenBIM Standards](#openbim-standards)
+    * [Open Source Tools](#open-source-tools)
+    * [Parametric &amp; Design Tools](#parametric--design-tools)
+    * [Generative / Next\-Gen Platforms](#generative--next-gen-platforms)
+  * [Errata (13\.9)](#errata-139)
 
 
 ## Standards and Formats
