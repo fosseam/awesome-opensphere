@@ -2,23 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated resources around open 3D spaces, skyboxes, 360° panaroma views and more, based on OpenUSD, glTF, ICF, formats, tools, engines, samples, and interoperability. Pull requests welcome.
+Curated resources around open 3D spaces: OpenUSD, glTF, formats, tools, engines, samples, and interoperability. Pull requests welcome.
 
-## Contents
-- [Standards and Formats](#standards-and-formats)
-- [Awesome Lists](#awesome-lists)
-- [Tools and Libraries](#tools-and-libraries)
-- [Sample Assets and Scenes](#sample-assets-and-scenes)
-- [Engines and Integrations](#engines-and-integrations)
-- [Metaverse and Interoperability](#metaverse-and-interoperability)
-- [Panorama, Skyboxes, 360](#panorama-skyboxes-360)
-- [Platforms and Ecosystems](#platforms-and-ecosystems)
-  - [NVIDIA Omniverse](#nvidia-omniverse)
-  - [EngageXR](#engagexr)
-- [Documentation and Background](#documentation-and-background)
-- [Contributing](#contributing)
-- [Format](#format)
-- [License](#license)
+
 
 ## Standards and Formats
 One-stop entry points for the most used open and de facto 3D formats.
@@ -116,6 +102,50 @@ Virtual collaboration platform with education and enterprise use cases.
 - [Case study: meetings](https://www.immersivelearning.market/praxisbeispiele/verwenden-von-engage-vr-fuer-virtual-meetings/) - Real-world adoption.
 
 
+## Geo & GIS
+
+This section highlights open tools, standards and resources for geospatial data and 3D city models, providing the geographic context essential for 3D spaces, BIM and digital twins.
+
+### Core Tools
+
+* [QGIS](https://qgis.org/) – leading open source GIS platform
+* [PostGIS](https://postgis.net/) – spatial extension for PostgreSQL
+* [GeoServer](http://geoserver.org/) – OGC-compliant server for geodata
+* [MapServer](https://mapserver.org/) – alternative open source mapping engine
+
+### Standards & Data Formats
+
+* [CityGML (OGC Standard)](https://www.ogc.org/standard/citygml/) – 3D city model standard
+* [GeoPackage](https://www.geopackage.org/) – modern SQLite-based GIS format
+* [OGC Standards: WMS / WFS / WCS](https://www.ogc.org/standards/) – web services for maps and features
+* [GeoJSON](https://geojson.org/) – lightweight geodata format for the web
+
+### Awesome Lists
+
+* [Awesome GIS](https://github.com/sshuair/awesome-gis)
+* [Awesome QGIS](https://github.com/GeoinquietosSR/awesome-qgis)
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
+
+### Visualization & 3D Integration
+
+* [CesiumJS](https://cesium.com/cesiumjs/) – WebGL globe for 3D GIS visualization
+* [deck.gl](https://deck.gl/) – high-performance WebGL framework for geospatial visualization
+* [Kepler.gl](https://kepler.gl/) – visual geodata exploration by Uber
+
+### Streetmapping & 360° Imagery
+
+* [Google Street View](https://www.google.com/streetview/) – proprietary global street-level imagery
+* [Mapillary](https://www.mapillary.com/) – crowd-sourced street imagery (Meta)
+* [KartaView](https://kartaview.org/) – open-source street imagery, OSM friendly
+* [Bing Streetside](https://www.microsoft.com/maps/streetside.aspx) – Microsoft’s street-level service
+* [Apple Look Around](https://support.apple.com/en-us/HT210327) – Apple’s street imagery system
+* [HERE Street Level Imagery](https://developer.here.com/documentation/street-level/) – commercial provider
+* [OpenStreetMap Wiki – Street-level imagery](https://wiki.openstreetmap.org/wiki/Street-level_imagery) – community overview of open sources
+
+
+
+
+
 ## AECO 
 Architecture, Engineering, Construction, Operations
 
@@ -125,7 +155,7 @@ BIM = Building  Information Modell
 * [IFC – Industry Foundation Classes (ISO 16739)](https://technical.buildingsmart.org/standards/ifc/)
 * [BCF – BIM Collaboration Format](https://technical.buildingsmart.org/standards/bcf/)
 * [IDS – Information Delivery Specification](https://technical.buildingsmart.org/standards/ids/)
-* [bSDD – buildingSMART Data Dictionary](https://bs-dd.org/)
+* [bSDD - buildingSMART Data Dictionary](https://search.bsdd.buildingsmart.org/)
 
 ### Open Source Tools
 
@@ -154,3 +184,13 @@ BIM = Building  Information Modell
 * [spacio.ai](https://www.spacio.ai/) – AI for interior layouts
 * [Qonic](https://qonic.com/) – BIM 2.0 initiative by Bricsys founders
 
+## Errata (13.9)
+Corrections to Link-Problems found by Lychee
+
+- [USD in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/universal-scene-description-in-unreal-engine)
+- [awesome-qgis](https://github.com/totpero/awesome-qgis)
+- [Build OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD#getting-and-building-the-code)
+- [Maya-USD Doku](https://openusd.org/docs/Maya-USD-Plugins.html)
+- [Maya-USD Repo](https://github.com/Autodesk/maya-usd)
+- [Street-level imagery (OSM Wiki)](https://wiki.openstreetmap.org/wiki/Street-level_imagery_services)
+- [Motif](https://www.motif.io/)
